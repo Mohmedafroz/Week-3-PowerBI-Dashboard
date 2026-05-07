@@ -140,11 +140,11 @@ Week-3-PowerBI-Dashboard/
 
 ## 👨‍💻 Author
 
-Your Name
+Mohmed Afroz
 Data Analytics Intern
-📧 your.email@gmail.com
-🔗 LinkedIn: your-linkedin-url
-🐙 GitHub: your-github-url
+📧 akhansonu1@gmail.com
+🔗 LinkedIn: https://www.linkedin.com/in/afishanu
+🐙 GitHub: https://github.com/Mohmedafroz/Week-3-PowerBI-Dashboard
 
 ---
 
